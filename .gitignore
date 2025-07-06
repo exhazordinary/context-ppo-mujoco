@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+checkpoints/
+*.pth
+.DS_Store
+assets/gifs/
+.env
