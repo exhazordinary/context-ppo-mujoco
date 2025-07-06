@@ -53,4 +53,4 @@ python evaluate.py
 
 ## License
 
-[Add your license information here, if applicable.]
+MIT License
